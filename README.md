@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @mmmaaa   A[L'atenció] --> B[Capacitat de focalitzar la percepció];
+    A --> C[Condicionada per:];
+    C --> D[La intensitat de l'estímul i la previsió de la seva aparició];
+    D --> E[Major intensitat de l'estímul --> Capta major atenció];
+    D --> F[Més imprevist --> Capta major atenció];
+    C --> G[Disposició de la persona que el rep: estat físic, psíquic i emocional];
+    A --> H[Permet:];
+    H --> I[Reaccionar als estímuls];
+    H --> J[Discriminar estímuls que no ens interessen (defensa perceptiva)];
+    H --> K[Concentrar-nos];
+    H --> L[Fer diverses coses alhora];
